@@ -1,4 +1,4 @@
-# Seattle-Walkable?
+# Is-Seattle-Walkable?
 
 Lukas Guericke
 
