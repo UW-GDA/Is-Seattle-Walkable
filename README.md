@@ -19,7 +19,7 @@ A rigid boundary, difficult geographical features, and an increased population w
 * OpenStreetMaps 
 * City of Seattle
 
-##Tools/Packages:
+## Tools/Packages:
 
 * [geopandas](https://geopandas.org/)
 * [rasterio](https://rasterio.readthedocs.io/en/latest/)
@@ -37,6 +37,8 @@ I expect that we will be able to classify Seattle into different types of neighb
 ## Results
 
 The results of applying the methods presented by [Measuring Walkability with GIS—Methods Overview and New Approach Proposal](https://www.mdpi.com/2071-1050/13/4/1883) were mixed. The final density map shows that Downtown Seattle and Capital Hill are the most walkable neighborhoods in Seattle. The least walkable neighborhoods are Magnolia, the industrial areas around the Duwamish River, areas of North Seattle such as Blue Ridge, Haller Lake, and Laurelhurst/Sand Point, and parts of South Seattle like Delridge and Fauntleroy/Seaview. These areas are generally expensive with lots of single family homes which means that they lack population density and will have limited transit accessibility. 
+
+![Seattle Walkability Map](https://github.com/UW-GDA/Is-Seattle-Walkable/blob/main/Seattle_Walkability_Final.jpeg)
 
 From personal experience, the results of this analysis are mixed. I agree that Haller Lake, Laurelhurst/Sand Point, and industrial sections around the Duwamish should not be highlighted as walkable. However, I would consider Magnolia a walkable neighborhood. Magnolia village has all the neccesities in grocery stores, cafes, and restaurants, there's a large park in Discovery Park, and most streets have sidewalks. Transit and other ammenities such as a movie theater and concert venue are lacking in Magnolia. 
 
